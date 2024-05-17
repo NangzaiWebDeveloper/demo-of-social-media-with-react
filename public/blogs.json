@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/dpR2J4h/thought-catalog.jpg",
+      "title": "The Secret Garden of Dreams",
+      "author": "Aria Nightingale",
+      "author_img": "https://i.ibb.co/C8C0yKd/First.png",
+      "posted_date": "2024-05-12",
+      "reading_time": 5,
+      "hashtags": ["fiction", "dreams", "fantasy"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/MfTNhZg/laptop.jpg",
+      "title": "Beyond the Nebula",
+      "author": "Cosmo Voyager",
+      "author_img": "https://i.ibb.co/BnQxPjX/Five.png",
+      "posted_date": "2024-05-11",
+      "reading_time": 2,
+      "hashtags": ["scifi", "adventure", "space"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/FJtPSn2/jeshoots-com-p-UAM5h-Pa-CRI-unsplash.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Luna Starlight",
+      "author_img": "https://i.ibb.co/ByV3MG9/Four.png",
+      "posted_date": "2024-05-10",
+      "reading_time": 7,
+      "hashtags": ["fantasy", "magic", "adventure"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/B4DjMjj/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+      "title": "The Time Traveler's Dilemma",
+      "author": "Max Chronos",
+      "author_img": "https://i.ibb.co/BnNCy9m/second.png",
+      "posted_date": "2024-05-09",
+      "reading_time": 15,
+      "hashtags": ["timetravel", "paradox", "sciencefiction"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/dpR2J4h/thought-catalog.jpg",
+      "title": "Whispers in the Shadows",
+      "author": "Evelyn Darkwood",
+      "author_img": "https://i.ibb.co/KKQWxrK/three.png",
+      "posted_date": "2024-05-08",
+      "reading_time": 10,
+      "hashtags": ["mystery", "suspense", "thriller"]
+    }
+  ]
+  
